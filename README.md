@@ -1,12 +1,12 @@
-一个基于sigrok的SCP协议解析器（Protocol Decoder, PD），用于逻辑分析仪抓包数据的解码与分析。
+A Sigrok-based SCP protocol decoder (PD) for decoding and analyzing packet capture data from a logic analyzer.
 
 ✨ Features
-🔌 支持SCP协议解析
-📊 自动解码：
+🔌 Supports SCP protocol parsing
+📊 Automatic decoding:
 Start / Stop
 Command
 Data
 Checksum
-🏷️ 波形注释（Annotations）
-🔍 适用于快充协议调试 / 逆向分析
-🧩 可集成到 DSView
+🏷️ ​​Waveform annotations
+🔍 Suitable for fast charging protocol debugging/reverse engineering
+🧩 Can be integrated into DSView
