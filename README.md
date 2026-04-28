@@ -1,4 +1,4 @@
-支持 SCP 协议帧解析
+支持Smart Charger Protocol协议帧解析
 自动解析：
 起始位（Start）
 停止位（Stop）
