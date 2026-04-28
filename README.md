@@ -1,10 +1,12 @@
-支持Smart Charger Protocol DSView协议帧解析
-自动解析：
-起始位（Start）
-停止位（Stop）
-命令（Command）
-数据（Data）
-校验（Checksum）
-支持波形叠加标注（Annotations）
-适用于充电器/手机/协议调试分析
-可用于逆向分析与问题定位
+一个基于sigrok的SCP（Smart Charger Protocol）协议解析器（Protocol Decoder, PD），用于逻辑分析仪抓包数据的解码与分析。
+
+✨ Features
+🔌 支持SCP协议解析
+📊 自动解码：
+Start / Stop
+Command
+Data
+Checksum
+🏷️ 波形注释（Annotations）
+🔍 适用于快充协议调试 / 逆向分析
+🧩 可集成到 DSView
