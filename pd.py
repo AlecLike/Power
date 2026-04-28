@@ -1,5 +1,5 @@
 ##
-## pd.py — Huawei SCP sigrok decoder
+## pd.py — XX SCP sigrok decoder
 ##
 
 import sigrokdecode as srd
