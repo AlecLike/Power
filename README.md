@@ -1,4 +1,4 @@
-一个基于sigrok的SCP（Smart Charger Protocol）协议解析器（Protocol Decoder, PD），用于逻辑分析仪抓包数据的解码与分析。
+一个基于sigrok的SCP协议解析器（Protocol Decoder, PD），用于逻辑分析仪抓包数据的解码与分析。
 
 ✨ Features
 🔌 支持SCP协议解析
